@@ -1,0 +1,10 @@
+div{
+    background-color: aqua;
+    color: rgb(7, 3, 245);
+    font-family: 'Courier New', Courier, monospace;
+    border: 20px;
+    box-sizing: border-boxs;
+    margin: 30px;
+    padding: 17px;
+
+}
